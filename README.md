@@ -9,7 +9,7 @@ Resolución de conflictos
 Trabajo colaborativo
 Uso de Markdown
 
-#Pruebas de Código
+# Pruebas de Código
 lineas de codigo en ArnoldC y C Sharp:
 
 `IT'S SHOWTIME
@@ -32,7 +32,7 @@ class Program
 
 ---
 
-#Autor
+# Autor
 
 Karin Ibarra
 
