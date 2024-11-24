@@ -12,18 +12,25 @@ Uso de Markdown
 # Pruebas de Código
 lineas de codigo en ArnoldC y C Sharp:
 
-`IT'S SHOWTIME
-TALK TO THE HAND "Hello GitHub"
-YOU HAVE BEEN TERMINATED`
+ArnoldC
 
-`using System;
-class Program
-{
-    static void Main(string[] args)
-    {
-        Console.WriteLine("Hello GitHub");
-    }
-}`
+`IT'S SHOWTIME`
+
+`TALK TO THE HAND "Hello GitHub"`
+
+`YOU HAVE BEEN TERMINATED`
+
+---
+C sharp
+
+`using System;`
+`class Program`
+`{`
+   ` static void Main(string[] args)`
+    `{`
+       ` Console.WriteLine("Hello GitHub");`
+   ` }`
+`}`
 
 ---
 
